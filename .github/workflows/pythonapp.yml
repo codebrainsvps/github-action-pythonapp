@@ -8,7 +8,7 @@ on:
 on:
   pull_request:
     branches:
-    - maste
+    - master
 
 jobs:
   build:
