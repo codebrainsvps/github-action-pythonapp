@@ -5,6 +5,10 @@ on:
    branches:
    - master
    - test
+on:
+  pull_request:
+    branches:
+    - maste
 
 jobs:
   build:
